@@ -1,6 +1,5 @@
-# Canteen Compost Cycle
-
-act as a 10+ years experience 3D Modeler I want to create a model on a  Decentralized Canteen Wet-Waste to Micro-Compost and Biogas Pipeline the research work for this is attached below go through the research work attached below and create me a model according to it the model should be 3d                                                                                                      Techno-Ecological Engineering Design and Implementation Blueprint: Decentralized Canteen Wet-Waste to Micro-Compost and Biogas Pipeline at Techno India University
+# Decentralized Canteen wet waste to micro-compost/biogas pipeline
+Techno-Ecological Engineering Design and Implementation Blueprint: Decentralized Canteen Wet-Waste to Micro-Compost and Biogas Pipeline at Techno India University
 
 Statutory Framework, Regulatory Liabilities, and Jurisdictional Mandates
 
